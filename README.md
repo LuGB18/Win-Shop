@@ -1,5 +1,5 @@
 # Win Shop
- Win Shop is an Shop for normal gamer app's.
+ Win Shop is an Store for downloading app's. similar to Play store. Win Shop Uses Wget for Downloads.
 
  For an example: Steam's Instaler, Epic Games Instaler, and Google Chrome Instaler. (Notice: NONE OF THESE APPS WAS LINCENCED FOR PUBLISGINHG. THIS REPOSITORY WAS MADE FOR PRIVATE USE ONLY).
 
