@@ -9,3 +9,10 @@
 
  - Help Needed? just email me! luan26323@gmail.com
 
+#Versions That stil Surpoted
+
+| Versions |   Still Surported  |
+|----------|--------------------|
+|   V1.5   |         ✔️        |
+|   V1.0   |         ❌        |
+
