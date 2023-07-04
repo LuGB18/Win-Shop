@@ -7,4 +7,6 @@
 
  - btw WinShop was HandMaded, please do not copy code. 
 
+ - Help Needed? just email me! luan26323@gmail.com
+
 | Luan's SYSTEM. (TM)|

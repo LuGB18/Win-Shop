@@ -59,6 +59,7 @@ cls
 wget https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BE44FC619-FE35-EA42-BDE5-EF0EA4D5F3E8%7D%26lang%3Dpt-PT%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26brand%3DJJTC%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
 start ChromeSetup.exe
 echo GC DOWNLOADED > rclog.txt
+title WinShopBETA
 cls
 goto menu
 
@@ -66,7 +67,9 @@ goto menu
 cd ..
 rd /s /q dw
 mkdir dw
+copy wget.exe dw
 cd dw
+title WinShopBETA
 cls
 goto menu
 
