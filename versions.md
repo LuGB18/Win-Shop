@@ -4,10 +4,10 @@
 
 Versions that are surported to ask about
 
-| Version | Supported          |
-| --------| ------------------ |
-| V1.5    | :white_check_mark: |
-| V1.0    | :x:                |
+| Versions | Can be asked      |
+| ---------| ------------------ |
+| V1.5     | :white_check_mark: |
+| V1.0     | :x:                |
 
 
 ## Reporting a Vulnerability or Sugestions
