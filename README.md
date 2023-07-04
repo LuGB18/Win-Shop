@@ -9,7 +9,7 @@
 
  - Help Needed? just email me! luan26323@gmail.com
 
-#Versions That stil Surpoted
+# Versions That stil Surpoted
 
 | Versions |   Still Surported  |
 |----------|--------------------|
